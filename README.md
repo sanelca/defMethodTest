@@ -2,43 +2,43 @@
 
 This is test project with 3 different input files which are displayed on 
 3 different views of the recordset.
-
-Output 1 - sorted by gender (females before males) then by last name ascending
-Output 2 - sorted by birth date, ascending then by last name ascending
+<br /><br />
+Output 1 - sorted by gender (females before males) then by last name ascending<br />
+Output 2 - sorted by birth date, ascending then by last name ascending<br />
 Output 3 - sorted by last name, descending
-
+<br /><br />
 The output should look as in the following examples:
 
-Output 1:\n
-Hingis Martina Female 4/2/1979 Green
-Kelly Sue Female 7/12/1959 Pink
-Kournikova Anna Female 6/3/1975 Red
-Seles Monica Female 12/2/1973 Black
-Abercrombie Neil Male 2/13/1943 Tan
-Bishop Timothy Male 4/23/1967 Yellow
-Bonk Radek Male 6/3/1975 Green
-Bouillon Francis Male 6/3/1975 Blue
-Smith Steve Male 3/3/1985 Red
+Output 1:<br />
+Hingis Martina Female 4/2/1979 Green<br />
+Kelly Sue Female 7/12/1959 Pink<br />
+Kournikova Anna Female 6/3/1975 Red<br />
+Seles Monica Female 12/2/1973 Black<br />
+Abercrombie Neil Male 2/13/1943 Tan<br />
+Bishop Timothy Male 4/23/1967 Yellow<br />
+Bonk Radek Male 6/3/1975 Green<br />
+Bouillon Francis Male 6/3/1975 Blue<br />
+Smith Steve Male 3/3/1985 Red<br /><br />
 
-Output 2:
-Abercrombie Neil Male 2/13/1943 Tan
-Kelly Sue Female 7/12/1959 Pink
-Bishop Timothy Male 4/23/1967 Yellow
-Seles Monica Female 12/2/1973 Black
-Bonk Radek Male 6/3/1975 Green
-Bouillon Francis Male 6/3/1975 Blue
-Kournikova Anna Female 6/3/1975 Red
-Hingis Martina Female 4/2/1979 Green
-Smith Steve Male 3/3/1985 Red
+Output 2:<br />
+Abercrombie Neil Male 2/13/1943 Tan<br />
+Kelly Sue Female 7/12/1959 Pink<br />
+Bishop Timothy Male 4/23/1967 Yellow<br />
+Seles Monica Female 12/2/1973 Black<br />
+Bonk Radek Male 6/3/1975 Green<br />
+Bouillon Francis Male 6/3/1975 Blue<br />
+Kournikova Anna Female 6/3/1975 Red<br />
+Hingis Martina Female 4/2/1979 Green<br />
+Smith Steve Male 3/3/1985 Red<br /><br />
 
-Output 3:
-Smith Steve Male 3/3/1985 Red
-Seles Monica Female 12/2/1973 Black
-Kournikova Anna Female 6/3/1975 Red
-Kelly Sue Female 7/12/1959 Pink
-Hingis Martina Female 4/2/1979 Green
-Bouillon Francis Male 6/3/1975 Blue
-Bonk Radek Male 6/3/1975 Green
-Bishop Timothy Male 4/23/1967 Yellow
-Abercrombie Neil Male 2/13/1943 Tan
+Output 3:<br />
+Smith Steve Male 3/3/1985 Red<br />
+Seles Monica Female 12/2/1973 Black<br />
+Kournikova Anna Female 6/3/1975 Red<br />
+Kelly Sue Female 7/12/1959 Pink<br />
+Hingis Martina Female 4/2/1979 Green<br />
+Bouillon Francis Male 6/3/1975 Blue<br />
+Bonk Radek Male 6/3/1975 Green<br />
+Bishop Timothy Male 4/23/1967 Yellow<br />
+Abercrombie Neil Male 2/13/1943 Tan<br />
 
