@@ -9,7 +9,7 @@ Output 3 - sorted by last name, descending
 
 The output should look as in the following examples:
 
-Output 1:
+Output 1:\n
 Hingis Martina Female 4/2/1979 Green
 Kelly Sue Female 7/12/1959 Pink
 Kournikova Anna Female 6/3/1975 Red
