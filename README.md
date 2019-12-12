@@ -40,5 +40,16 @@ Hingis Martina Female 4/2/1979 Green<br />
 Bouillon Francis Male 6/3/1975 Blue<br />
 Bonk Radek Male 6/3/1975 Green<br />
 Bishop Timothy Male 4/23/1967 Yellow<br />
-Abercrombie Neil Male 2/13/1943 Tan<br />
+Abercrombie Neil Male 2/13/1943 Tan<br /><br />
+
+To test this project you first need to clone this project, and to run command: 
+'ruby main.rb' from the root folder.<br />
+
+But first you need to have ruby installed on your computer:
+https://gorails.com/setup/windows/10<br />
+
+After you install ruby you need to run command: 'gem install rspec'<br />
+To run rspec tests you just need to run command 'rspec' from the root of the project.
+
+
 
